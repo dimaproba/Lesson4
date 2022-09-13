@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,900&display=swap');
+
+@font-face {
+   font-family: 'FiraSansCondensed';
+   src: url(../fonts/FiraSansCondensed-Regular.woff2) format('woff2'),
+      url(../fonts/FiraSansCondensed-Regular.woff) format('woff');
+      font-display: swap;
+      font-weight: 400;
+   font-style: normal;
+}
+@font-face {
+   font-family: 'FiraSansCondensed';
+   src: url(../fonts/FiraSansCondensed-Bold.woff2) format('woff2'),
+      url(../fonts/FiraSansCondensed-Bold.woff) format('woff');
+      font-display: swap;
+      font-weight: 700;
+   font-style: normal;
+}
+.main p{
+   color: rgb(67, 119, 119);
+}
+.main{
+   color: rgb(43, 43, 142);
+}
+h3{
+   color: chartreuse;
+}
+.header-text2 h3{
+   color: rgb(211, 53, 53);
+}
+.header-text2 h3#two{
+   color: rgb(42, 118, 165);
+}
+h3{
+   font-family: Nunito;  
+}
+.header-text4 h3{
+   font-family: Pacifico;
+}
+.main{
+   font-family: FiraSansCondensed;
+   font-weight:700 ;
+}
+.header-text5 p{
+   color: chocolate;
+   font-family: Nunito;
+}
+.header-text4 p{
+   color: rgb(171, 30, 210);
+   font-family: Pacifico;
+}
+.header-text2 p{
+   font-family: Pacifico;
+   color: darkred;
+}
